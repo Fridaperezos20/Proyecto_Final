@@ -1,0 +1,40 @@
+#seccion {
+    width: 1200px;
+    height: 1080px;
+    max-width: 0 auto;
+    background-color: rgb(255, 255, 255);
+}
+
+.acercade {
+    text-align: justify;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.index {
+    text-align: center;
+    align-items: center;
+}
+
+h1 {
+    padding-top: 1cm;
+    padding-bottom: 2cm;
+}
+
+
+img {
+    display: block;
+    border: 1px sloid #ddd;
+    margin: 0 auto;
+    border-radius: 4px;
+    width: 200px;
+}
+
+.ajuste {
+    text-align: justify;
+    padding-left: 0.25cm;
+}
+
+.boton {
+    padding-top: 0.30cm;
+}
